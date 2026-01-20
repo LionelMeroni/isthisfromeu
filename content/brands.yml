@@ -10,6 +10,7 @@
   alternatives:
     - Hell
     - RedBull
+
 - name: Apple
   isEuropean: false
   country: United States
@@ -24,10 +25,6 @@
     - Nokia
     - Philips
     - Siemens
-
-- name: Panzani
-  isEuropean: true
-  country: France
 
 - name: Rode
   isEuropean: false
@@ -1780,3 +1777,103 @@
 - name: Proton
   isEuropean: true
   country: Switzerland
+
+# Pasta / Noodles
+- name: 3 Glocken
+  isEuropean: true
+  country: Germany
+
+- name: Afeltra
+  isEuropean: true
+  country: Italy
+
+- name: Agnesi
+  isEuropean: true
+  country: Italy
+
+- name: Alpina Savoie
+  isEuropean: true
+  country: France
+
+- name: Barilla
+  isEuropean: true
+  country: Italy
+
+- name: Birkel
+  isEuropean: true
+  country: Germany
+
+- name: Catelli
+  isEuropean: false
+  country: Canada
+  alternatives:
+    - Barilla
+    - Panzani
+
+- name: De Cecco
+  isEuropean: true
+  country: Italy
+
+- name: Divella
+  isEuropean: true
+  country: Italy
+
+- name: Filiz
+  isEuropean: false
+  country: Turkey
+  alternatives:
+    - Barilla
+    - Panzani
+
+- name: Garofalo
+  isEuropean: true
+  country: Italy
+
+- name: La Molisana
+  isEuropean: true
+  country: Italy
+
+- name: Lustucru
+  isEuropean: true
+  country: France
+
+- name: Makfa
+  isEuropean: false
+  country: Russia
+  alternatives:
+    - Barilla
+    - Panzani
+
+- name: Mueller's
+  isEuropean: false
+  country: United States
+  alternatives:
+    - Barilla
+    - Panzani
+
+- name: Panzani
+  isEuropean: true
+  country: France
+
+- name: Pastificio Di Martino
+  isEuropean: true
+  country: Italy
+
+- name: Poiatti
+  isEuropean: true
+  country: Italy
+
+- name: Ronzoni
+  isEuropean: false
+  country: United States
+  alternatives:
+    - Barilla
+    - Panzani
+
+- name: Rummo
+  isEuropean: true
+  country: Italy
+
+- name: Voiello
+  isEuropean: true
+  country: Italy
